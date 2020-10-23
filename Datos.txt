@@ -1,5 +1,5 @@
 nombre=Leo;
 apellido=Torres;
-direccion=Ambato;
+direccion=Quito;
 edad=27;
-
+cedula=1804;
