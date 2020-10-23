@@ -1,0 +1,4 @@
+nombre=Leo;
+direccion=Ambato;
+Edad=27;
+
